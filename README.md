@@ -1,6 +1,7 @@
 # KH_ICU
 <h1 style="font-family:한양해서, 펜흘림, 굴림체"><ott 계정 공유 사이트></h1>
 
+   <h2>시작 페이지</h2>
 ![image](https://user-images.githubusercontent.com/100131986/220095534-27f12c1f-0f26-40d1-b2c3-5028b6f039e8.png)
 
 
