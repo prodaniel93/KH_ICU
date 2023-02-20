@@ -2,6 +2,7 @@
 <h1 style="font-family:한양해서, 펜흘림, 굴림체"><ott 계정 공유 사이트></h1>
 
 
+![image](https://user-images.githubusercontent.com/100131986/220094517-17a7458d-0ad1-481e-8de9-c3d9f1a1a2aa.png)
 
 
    <h2> 팀원명 </h2>
